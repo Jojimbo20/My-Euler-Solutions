@@ -1,0 +1,8 @@
+C:\Users\Jordan\Desktop\Euler\Euler 4\Euler 4\bin\Debug\Euler 4.exe.config
+C:\Users\Jordan\Desktop\Euler\Euler 4\Euler 4\bin\Debug\Euler 4.exe
+C:\Users\Jordan\Desktop\Euler\Euler 4\Euler 4\bin\Debug\Euler 4.pdb
+C:\Users\Jordan\Desktop\Euler\Euler 4\Euler 4\bin\Debug\MyLibrary.dll
+C:\Users\Jordan\Desktop\Euler\Euler 4\Euler 4\bin\Debug\MyLibrary.pdb
+C:\Users\Jordan\Desktop\Euler\Euler 4\Euler 4\obj\Debug\Euler 4.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Euler\Euler 4\Euler 4\obj\Debug\Euler 4.exe
+C:\Users\Jordan\Desktop\Euler\Euler 4\Euler 4\obj\Debug\Euler 4.pdb
