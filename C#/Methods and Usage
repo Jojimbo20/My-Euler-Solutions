@@ -1,0 +1,29 @@
+1) Download the C# folder as a ZIP file
+2) Open visual studio
+3) Open your C# project solution
+4) Right click on your solution references
+5) Click "Add Reference..."
+6) Click Browse
+7) Navigate to wherever you extracted the C# Library
+8) Go to C#\bin\debug\MyLibrary.dll
+9) Click OK
+10) In your code don't forget to add at the top: "using MyLibrary;"
+11) Usage example: 
+
+    string test = "Test the reverse function on me!";
+    string rev = Hello.Reverse(test);
+    Console.WriteLine("{0}", rev);
+    
+    Oututs: !em no noitcnuf esrever eht tseT
+    
+-------------------------------------------------------------------------------------------------------------------------------------
+Name                      Description                                         Arguments                   Return Type         Type
+Reverse()                 Reverses a string passed into it.                   (string)                    String              Static
+
+
+
+
+
+
+
+
